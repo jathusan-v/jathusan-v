@@ -13,7 +13,7 @@ I'm currently building a portfolio of Python projects applying mathematics to qu
 - ⚽ Fantasy Football Prediction Models
 - 📈 Portfolio Optimisation
 
-## Technologies
+## Languages & Tools
 
 - Python
 - LaTeX
