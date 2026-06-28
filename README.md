@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jathusan 👋
 
-<!--
-**jathusan-v/jathusan-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics student at Imperial College London with an interest in quantitative finance, probability, statistics and machine learning.
 
-Here are some ideas to get you started:
+I'm currently building a portfolio of Python projects applying mathematics to quantitative finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+
+- 📊 Random Matrix Theory for Quantitative Finance
+
+## Planned projects
+
+- ⚽ Fantasy Football Prediction Models
+- 📈 Portfolio Optimisation
+
+## Technologies
+
+- Python
+- LaTeX
+
+Thanks for visiting!
