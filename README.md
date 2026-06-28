@@ -17,5 +17,3 @@ I'm currently building a portfolio of Python projects applying mathematics to qu
 
 - Python
 - LaTeX
-
-Thanks for visiting!
