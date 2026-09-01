@@ -1,19 +1,9 @@
-# Hi, I'm Jathusan 👋
+### Jathusan Vijayakumar
 
-I'm a Mathematics student at Imperial College London with an interest in quantitative finance, probability, statistics and machine learning.
+MSci Mathematics student at Imperial College London, building toward quantitative research. Interested in probability, statistics, optimisation, and applying rigorous mathematics to real, validated engineering problems rather than characterisation exercises.
 
-I'm currently building a portfolio of Python projects applying mathematics to quantitative finance.
+**Currently building:** a C++ option pricing engine (analytic Black-Scholes, Monte Carlo, finite-difference PDE methods, cross-validated against each other) with Python bindings via pybind11.
 
-## Current project
+**Featured project:** [`rmt-covariance-cleaning`](https://github.com/jathusan-v/rmt-covariance-cleaning) — Marchenko-Pastur eigenvalue cleaning applied to S&P 500 covariance estimation, validated out-of-sample via walk-forward backtesting against a Ledoit-Wolf shrinkage baseline.
 
-- 📊 Random Matrix Theory for Quantitative Finance
-
-## Planned projects
-
-- ⚽ Fantasy Football Prediction Models
-- 📈 Portfolio Optimisation
-
-## Languages & Tools
-
-- Python
-- LaTeX
+[LinkedIn](https://linkedin.com/in/jathusan-v) · jathusan.vk@gmail.com
